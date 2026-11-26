@@ -7,5 +7,5 @@ keep_vars = true
 #binding = "KV"			#KV绑定名默认不可修改
 #id = "EDT2"				#KV数据库id
 kv_namespaces = [
-  { binding = "KV", id = "EDT2" }
+  { binding = "KV", id = "a0209bfb293146479537622311139284" }
 ]
